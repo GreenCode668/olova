@@ -341,7 +341,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Nazmul Hossain
+**Nazmul Hossain**
 
 ---
 
